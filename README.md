@@ -1,14 +1,8 @@
 # PHP groupwork project
 
-## Instructions
-1. One group member forks this repository and shares with other team members
-2. Make a pull request
-3. Edit the README.md file accordingly
-4. Create web application
 
-### Requirements
 
-1. **README.md contains:**
+1. **The Project**
     * The Online Barter (extended)
     * Philip Anker Gade Mikkelsen (single project)
     * Creating an extended Online Barter in which people can exchange goods. The primary problem that is going to be solved has to do with how to search other members goods in terms of an exchange;
