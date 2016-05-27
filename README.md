@@ -1,5 +1,4 @@
 # PHP groupwork project
-**Deadline** examination day - please attend the same day with all group members
 
 ## Instructions
 1. One group member forks this repository and shares with other team members
@@ -11,12 +10,12 @@
 
 1. **README.md contains:**
     * The Online Barter (extended)
-    * Philip Anker Gade Mikkelsen
-    * purpose of the project (3-4 sentences what problem you are trying to solve);
-    * description of the project (target group – your customers/clients, how you differ from other apps – describe 2-3 similar applications/web services);
-    * functionalities of the app
-        * v0.1 It is possible to create user
-        * v0.2 User can add his/her interests
+    * Philip Anker Gade Mikkelsen (single project)
+    * Creating an extended Online Barter in which people can exchange goods. The primary problem that is going to be solved has to do with how to search other members goods in terms of an exchange;
+    * The project is targeted towards people looking for a solution for saving money, when shopping on the internet. The Online Boutique has a simple set-up and is just like a membership webpage such as Facebook, Twitter etc. The core of the application is simply to describe what you have, looking for others to exchange;
+    * Functionalities of the app
+        * v0.1 It is possible creating a user in the login/register homepage.
+        * v0.2 The user can add his/her belongins and search for others.
         * ...
     * **summary:** what did you learn? what did fail? what whould you do different next time?
 
