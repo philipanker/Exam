@@ -9,8 +9,8 @@
     
       <body>
         <div class= "container">  
-        <h1>The Online Barter</h1> <br>
-        <a href="login.php">Login</a><a> | </a><a href="register.php">Register</a>
+        <h1>New on The Online Barter? Sign up below</h1> <br>
+       
           </div>
     
 <body>

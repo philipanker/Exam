@@ -1,0 +1,35 @@
+@charset "utf-8"
+/* CSS Document */
+    
+body {
+    background-color: deepskyblue;
+    font-family: inherit;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: 600;
+    color: aliceblue;
+    }
+
+a {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+}
+
+.container {
+    width: 940px;
+    padding: 10px;
+    background-color: deepskyblue;
+    border: 1px solid;
+    margin: 20px auto
+}
+
+.center {
+    text-align: center;
+}
